@@ -27,5 +27,5 @@ To view this project locally, follow these steps:
    Open index.html in any web browser.
 
 ###To See the output
-   Just copy and paste this link in web browser : https://rawcdn.githack.com/revath07/My-Profile/184e53f62050eb79979f9b648d80599d3490913b/index-css5.html
+   Just Click this link : https://rawcdn.githack.com/revath07/My-Profile/184e53f62050eb79979f9b648d80599d3490913b/index-css5.html
 
