@@ -25,3 +25,6 @@ To view this project locally, follow these steps:
    
 2. **Open the Index File:**
    Open index.html in any web browser.
+                  (OR)
+   Just copy and paste this link in web browser : https://rawcdn.githack.com/revath07/My-Profile/184e53f62050eb79979f9b648d80599d3490913b/index-css5.html
+
